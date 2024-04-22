@@ -143,9 +143,9 @@ section{
    width: 100%;
 }
 
-.home .row .content h3{
+.home .row .content h5{
    margin-bottom: 1rem;
-   font-size: 10rem;
+   font-size: 6rem;
    color:var(--white);
    line-height: 1;
 }
@@ -262,7 +262,7 @@ section{
 
 .teachers .slide img{
    height: 40rem;
-   width: 100%;
+   width: 70%;
    object-fit: cover;
    border-radius: .5rem;
 }
